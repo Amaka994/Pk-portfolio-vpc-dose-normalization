@@ -1,6 +1,6 @@
 # ============================================================
 # PK Portfolio Example: Dose Normalization + VPC Plot
-# Author: Ukamaka (Amaka) Modebelu
+# Author: Amaka 
 # Description:
 # This script simulates PK concentration-time data and generates:
 # 1) Dose-normalized concentration plot
